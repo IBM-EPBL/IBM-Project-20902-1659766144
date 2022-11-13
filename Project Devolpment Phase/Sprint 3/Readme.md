@@ -17,3 +17,5 @@
 <td>Registering the user to get alerts</td>
       </tr>
   </table>
+  
+  <a href="https://node-red-jleja-2022-11-04.eu-gb.mybluemix.net/ui"> Click here to view the Dashboard </a>
